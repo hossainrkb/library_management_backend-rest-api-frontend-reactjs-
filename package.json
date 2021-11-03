@@ -30,6 +30,6 @@
   "devDependencies": {
     "moment": "^2.24.0",
     "react-table": "^6.10.0",
-    "validator": "^11.1.0"
+    "validator": "^13.7.0"
   }
 }
